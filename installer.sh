@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the URL to download the system info script
-SCRIPT_URL="https://example.com/csysteminfo.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/crossjbly/csysteminfo-linux/refs/heads/main/csysteminfo.sh"
 
 # Define the destination directory for installation
 INSTALL_DIR="$HOME/.local/bin"
